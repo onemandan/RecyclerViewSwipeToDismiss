@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string name="item_title">TITLE</string>
+    <string name="item_subtitle">SUBTITLE</string>
+
+    <string name="button_add">Add Item</string>
+    <string name="button_remove">Remove Item</string>
+</resources>
